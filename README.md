@@ -11,4 +11,5 @@ It has to be in the same folder that
 Then, run the following: 
 
     pip3 install docxtpl
+    cp example-secrets.py secrets.py
     python3 scoper.py
